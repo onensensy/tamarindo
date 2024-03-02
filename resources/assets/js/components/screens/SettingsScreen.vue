@@ -8,7 +8,7 @@
 
         <p id="mediaPathHelp" class="help">
           The <em>absolute</em> path to the server directory containing your media.
-          Koel will scan this directory for songs and extract any available information.<br>
+          Tamarindo will scan this directory for songs and extract any available information.<br>
           Scanning may take a while, especially if you have a lot of songs, so be patient.
         </p>
 

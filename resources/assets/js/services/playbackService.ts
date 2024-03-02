@@ -90,7 +90,7 @@ class PlaybackService {
   }
 
   private async setNowPlayingMeta(song) {
-    document.title = `${song.title} ♫ Koel`
+    document.title = `${song.title} ♫ Tamarindo`
     this.player.media.setAttribute('title', `${song.artist_name} - ${song.title}`)
 
     if (isAudioContextSupported) {
@@ -258,7 +258,7 @@ class PlaybackService {
   }
 
   public async stop () {
-    document.title = 'Koel'
+    document.title = 'Tamarindo'
     this.player.pause()
     this.player.seek(0)
 

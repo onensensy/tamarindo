@@ -9,7 +9,7 @@
     <div v-if="!isPhone" class="form-row">
       <label>
         <CheckBox v-model="preferences.confirmClosing" name="confirm_closing" />
-        Confirm before closing Koel
+        Confirm before closing Tamarindo
       </label>
     </div>
     <div v-if="isPhone" class="form-row">

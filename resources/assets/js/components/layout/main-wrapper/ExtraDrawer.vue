@@ -9,15 +9,27 @@
       <div class="bottom">
         <button
           v-koel-tooltip.left
-          :title="shouldNotifyNewVersion ? 'New version available!' : 'About Koel'"
+          :title="
+            shouldNotifyNewVersion
+              ? 'New version available!'
+              : 'About Tamarindo'
+          "
           type="button"
           @click.prevent="openAboutKoelModal"
         >
           <Icon :icon="faInfoCircle" />
-          <span v-if="shouldNotifyNewVersion" class="new-version-notification" />
+          <span
+            v-if="shouldNotifyNewVersion"
+            class="new-version-notification"
+          />
         </button>
 
-        <button v-koel-tooltip.left title="Log out" type="button" @click.prevent="logout">
+        <button
+          v-koel-tooltip.left
+          title="Log out"
+          type="button"
+          @click.prevent="logout"
+        >
           <Icon :icon="faArrowRightFromBracket" />
         </button>
 
@@ -73,54 +85,73 @@
 </template>
 
 <script lang="ts" setup>
-import isMobile from 'ismobilejs'
-import { faArrowRightFromBracket, faInfoCircle } from '@fortawesome/free-solid-svg-icons'
-import { defineAsyncComponent, onMounted, ref, watch } from 'vue'
-import { albumStore, artistStore, preferenceStore } from '@/stores'
-import { useAuthorization, useNewVersionNotification, useThirdPartyServices } from '@/composables'
-import { eventBus, logger, requireInjection } from '@/utils'
-import { CurrentSongKey } from '@/symbols'
+import isMobile from "ismobilejs";
+import {
+  faArrowRightFromBracket,
+  faInfoCircle,
+} from "@fortawesome/free-solid-svg-icons";
+import { defineAsyncComponent, onMounted, ref, watch } from "vue";
+import { albumStore, artistStore, preferenceStore } from "@/stores";
+import {
+  useAuthorization,
+  useNewVersionNotification,
+  useThirdPartyServices,
+} from "@/composables";
+import { eventBus, logger, requireInjection } from "@/utils";
+import { CurrentSongKey } from "@/symbols";
 
-import ProfileAvatar from '@/components/ui/ProfileAvatar.vue'
-import SidebarMenuToggleButton from '@/components/ui/SidebarMenuToggleButton.vue'
+import ProfileAvatar from "@/components/ui/ProfileAvatar.vue";
+import SidebarMenuToggleButton from "@/components/ui/SidebarMenuToggleButton.vue";
 
-const LyricsPane = defineAsyncComponent(() => import('@/components/ui/LyricsPane.vue'))
-const ArtistInfo = defineAsyncComponent(() => import('@/components/artist/ArtistInfo.vue'))
-const AlbumInfo = defineAsyncComponent(() => import('@/components/album/AlbumInfo.vue'))
-const YouTubeVideoList = defineAsyncComponent(() => import('@/components/ui/YouTubeVideoList.vue'))
-const ExtraDrawerTabHeader = defineAsyncComponent(() => import('@/components/ui/ExtraDrawerTabHeader.vue'))
+const LyricsPane = defineAsyncComponent(
+  () => import("@/components/ui/LyricsPane.vue")
+);
+const ArtistInfo = defineAsyncComponent(
+  () => import("@/components/artist/ArtistInfo.vue")
+);
+const AlbumInfo = defineAsyncComponent(
+  () => import("@/components/album/AlbumInfo.vue")
+);
+const YouTubeVideoList = defineAsyncComponent(
+  () => import("@/components/ui/YouTubeVideoList.vue")
+);
+const ExtraDrawerTabHeader = defineAsyncComponent(
+  () => import("@/components/ui/ExtraDrawerTabHeader.vue")
+);
 
-const { currentUser } = useAuthorization()
-const { useYouTube } = useThirdPartyServices()
-const { shouldNotifyNewVersion } = useNewVersionNotification()
+const { currentUser } = useAuthorization();
+const { useYouTube } = useThirdPartyServices();
+const { shouldNotifyNewVersion } = useNewVersionNotification();
 
-const song = requireInjection(CurrentSongKey, ref(undefined))
-const activeTab = ref<ExtraPanelTab | null>(null)
+const song = requireInjection(CurrentSongKey, ref(undefined));
+const activeTab = ref<ExtraPanelTab | null>(null);
 
-const artist = ref<Artist>()
-const album = ref<Album>()
+const artist = ref<Artist>();
+const album = ref<Album>();
 
 const fetchSongInfo = async (_song: Song) => {
-  song.value = _song
-  artist.value = undefined
-  album.value = undefined
+  song.value = _song;
+  artist.value = undefined;
+  album.value = undefined;
 
   try {
-    artist.value = await artistStore.resolve(_song.artist_id)
-    album.value = await albumStore.resolve(_song.album_id)
+    artist.value = await artistStore.resolve(_song.artist_id);
+    album.value = await albumStore.resolve(_song.album_id);
   } catch (error) {
-    logger.log('Failed to fetch media information', error)
+    logger.log("Failed to fetch media information", error);
   }
-}
+};
 
-watch(song, song => song && fetchSongInfo(song), { immediate: true })
-watch(activeTab, tab => (preferenceStore.activeExtraPanelTab = tab))
+watch(song, (song) => song && fetchSongInfo(song), { immediate: true });
+watch(activeTab, (tab) => (preferenceStore.activeExtraPanelTab = tab));
 
-const openAboutKoelModal = () => eventBus.emit('MODAL_SHOW_ABOUT_KOEL')
-const onProfileLinkClick = () => isMobile.any && (activeTab.value = null)
-const logout = () => eventBus.emit('LOG_OUT')
+const openAboutKoelModal = () => eventBus.emit("MODAL_SHOW_ABOUT_KOEL");
+const onProfileLinkClick = () => isMobile.any && (activeTab.value = null);
+const logout = () => eventBus.emit("LOG_OUT");
 
-onMounted(() => isMobile.any || (activeTab.value = preferenceStore.activeExtraPanelTab))
+onMounted(
+  () => isMobile.any || (activeTab.value = preferenceStore.activeExtraPanelTab)
+);
 </script>
 
 <style lang="scss" scoped>
@@ -171,20 +202,21 @@ aside {
   height: 100%;
   width: 64px;
   padding: 1.6rem 0 1.2rem;
-  background-color: rgba(0, 0, 0, .05);
-  border-left: 1px solid rgba(255, 255, 255, .05);
+  background-color: rgba(0, 0, 0, 0.05);
+  border-left: 1px solid rgba(255, 255, 255, 0.05);
 
   @media screen and (max-width: 768px) {
     z-index: 2;
     height: auto;
     width: 100%;
     flex-direction: row;
-    padding: .5rem 1rem;
-    border-bottom: 1px solid rgba(255, 255, 255, .05);
-    box-shadow: 0 0 30px 0 rgba(0, 0, 0, .5);
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5);
   }
 
-  .top, .bottom {
+  .top,
+  .bottom {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -193,7 +225,7 @@ aside {
 
     @media screen and (max-width: 768px) {
       flex-direction: row;
-      gap: .25rem;
+      gap: 0.25rem;
     }
   }
 
@@ -205,10 +237,10 @@ aside {
     height: 42px;
     aspect-ratio: 1/1;
     border-radius: 999rem;
-    background: rgba(0, 0, 0, .3);
+    background: rgba(0, 0, 0, 0.3);
     font-size: 1.2rem;
-    opacity: .7;
-    transition: opacity .2s ease-in-out;
+    opacity: 0.7;
+    transition: opacity 0.2s ease-in-out;
     color: currentColor;
     cursor: pointer;
 
@@ -216,13 +248,14 @@ aside {
       background: none;
     }
 
-    &:hover, &.active {
+    &:hover,
+    &.active {
       opacity: 1;
       color: var(--color-text-primary);
     }
 
     &:active {
-      transform: scale(.9);
+      transform: scale(0.9);
     }
 
     &.burger {

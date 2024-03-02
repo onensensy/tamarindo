@@ -10,7 +10,7 @@
     <div v-if="useSpotify">
       <p>
         Spotify integration is enabled.
-        Koel will attempt to retrieve album arts and artist images from Spotify when a song is played, if needed.
+        Tamarindo will attempt to retrieve album arts and artist images from Spotify when a song is played, if needed.
       </p>
     </div>
     <div v-else>
@@ -18,7 +18,7 @@
         Spotify integration is not enabled.
         <span v-if="isAdmin" data-testid="spotify-admin-instruction">
           Visit
-          <a href="https://docs.koel.dev/3rd-party.html#spotify" class="text-highlight" target="_blank">Koel’s Wiki</a>
+          <a href="https://docs.koel.dev/3rd-party.html#spotify" class="text-highlight" target="_blank">Tamarindo’s Wiki</a>
           for a quick how-to.
         </span>
         <span v-else data-testid="spotify-user-instruction">

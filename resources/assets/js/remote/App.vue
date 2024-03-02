@@ -44,11 +44,11 @@
         </template>
         <div v-else class="loader">
           <div v-if="!maxRetriesReached">
-            <p>Searching for Koel…</p>
+            <p>Searching for Tamarindo…</p>
             <div class="signal" />
           </div>
           <p v-else>
-            No active Koel instance found.
+            No active Tamarindo instance found.
             <a class="rescan text-highlight" @click.prevent="rescan">Rescan</a>
           </p>
         </div>

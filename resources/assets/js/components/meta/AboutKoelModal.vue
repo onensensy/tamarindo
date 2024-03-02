@@ -2,20 +2,20 @@
   <div v-koel-focus class="about text-secondary" data-testid="about-koel" tabindex="0" @keydown.esc="close">
     <main>
       <div class="logo">
-        <img alt="Koel's logo" src="@/../img/logo.svg" width="128">
+        <img alt="Tamarindo's logo" src="@/../img/logo.svg" width="128">
       </div>
 
-      <p class="current-version">Koel {{ currentVersion }}</p>
+      <p class="current-version">Tamarindo {{ currentVersion }}</p>
 
       <p v-if="shouldNotifyNewVersion" data-testid="new-version-about">
         <a :href="latestVersionReleaseUrl" target="_blank">
-          A new version of Koel is available ({{ latestVersion }})!
+          A new version of Tamarindo is available ({{ latestVersion }})!
         </a>
       </p>
 
       <p class="author">
         Made with ❤️ by
-        <a href="https://github.com/phanan" rel="noopener" target="_blank">Phan An</a>
+        <a href="https://github.com/phanan" rel="noopener" target="_blank">{{ env('APP_DEVELOPER') }}</a>
         and quite a few
         <a href="https://github.com/koel/core/graphs/contributors" rel="noopener" target="_blank">awesome</a>&nbsp;<a
           href="https://github.com/koel/koel/graphs/contributors" rel="noopener" target="_blank"
@@ -34,7 +34,7 @@
       <SponsorList />
 
       <p>
-        Loving Koel? Please consider supporting its development via
+        Loving Tamarindo? Please consider supporting its development via
         <a href="https://github.com/users/phanan/sponsorship" rel="noopener" target="_blank">GitHub Sponsors</a>
         and/or
         <a href="https://opencollective.com/koel" rel="noopener" target="_blank">OpenCollective</a>.

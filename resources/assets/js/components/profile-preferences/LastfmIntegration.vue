@@ -8,13 +8,13 @@
     </h1>
 
     <div v-if="useLastfm" data-testid="lastfm-integrated">
-      <p>Last.fm integration is enabled. Koel will attempt to retrieve album and artist information from Last.fm.</p>
+      <p>Last.fm integration is enabled. Tamarindo will attempt to retrieve album and artist information from Last.fm.</p>
       <p v-if="connected">
         It appears that you have connected your Last.fm account as well – Perfect!
       </p>
       <p v-else>You can also connect your Last.fm account here.</p>
       <p>
-        Connecting Koel and your Last.fm account enables such exciting features as
+        Connecting Tamarindo and your Last.fm account enables such exciting features as
         <a
           class="text-highlight"
           href="https://www.last.fm/about/trackmymusic"
@@ -33,10 +33,10 @@
 
     <div v-else data-testid="lastfm-not-integrated">
       <p>
-        Last.fm integration is not enabled on this installation of Koel.
+        Last.fm integration is not enabled on this installation of Tamarindo.
         <span v-if="isAdmin" data-testid="lastfm-admin-instruction">
           Visit
-          <a href="https://docs.koel.dev/3rd-party.html#last-fm" class="text-highlight" target="_blank">Koel’s Wiki</a>
+          <a href="https://docs.koel.dev/3rd-party.html#last-fm" class="text-highlight" target="_blank">Tamarindo’s Wiki</a>
           for a quick how-to.
         </span>
         <span v-else data-testid="lastfm-user-instruction">
@@ -64,7 +64,7 @@ const connected = computed(() => Boolean(currentUser.value.preferences!.lastfm_s
 /**
  * Connect the current user to Last.fm.
  * This method opens a new window.
- * Koel will reload once the connection is successful.
+ * Tamarindo will reload once the connection is successful.
  */
 const connect = () => window.open(
   `${window.BASE_URL}lastfm/connect?api_token=${authService.getApiToken()}`,

@@ -4,7 +4,7 @@ return [
     'tagline' => 'Personal audio streaming service that works.',
 
     'env' => env('APP_ENV', 'production'),
-    'name' => 'Koel',
+    'name' => 'Tamarindo',
 
     /*
     |--------------------------------------------------------------------------
