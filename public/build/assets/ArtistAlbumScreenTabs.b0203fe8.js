@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.cdc0426e.js";import{z as n,A as r,G as s,aC as a}from"./index.8f0bf197.js";const o={},c={class:"tabs"};function _(e,d){return n(),r("div",c,[s("header",null,[a(e.$slots,"header",{},void 0,!0)]),s("main",null,[a(e.$slots,"default",{},void 0,!0)])])}const f=t(o,[["render",_],["__scopeId","data-v-a4c4a3f0"]]);export{f as S};

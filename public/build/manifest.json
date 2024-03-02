@@ -1,0 +1,1492 @@
+{
+  "resources/assets/img/logo.svg": {
+    "file": "assets/logo.c97b706c.svg",
+    "src": "resources/assets/img/logo.svg"
+  },
+  "resources/assets/img/covers/default.svg": {
+    "file": "assets/default.204edbc2.svg",
+    "src": "resources/assets/img/covers/default.svg"
+  },
+  "resources/assets/img/themes/bg-rose-petals.svg": {
+    "file": "assets/bg-rose-petals.66ba796f.svg",
+    "src": "resources/assets/img/themes/bg-rose-petals.svg"
+  },
+  "resources/assets/img/themes/bg-purple-waves.svg": {
+    "file": "assets/bg-purple-waves.b7ea7736.svg",
+    "src": "resources/assets/img/themes/bg-purple-waves.svg"
+  },
+  "resources/assets/img/themes/bg-pop-culture.jpg": {
+    "file": "assets/bg-pop-culture.99dd6fd2.jpg",
+    "src": "resources/assets/img/themes/bg-pop-culture.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/pop-culture.jpg": {
+    "file": "assets/pop-culture.423c9b5a.jpg",
+    "src": "resources/assets/img/themes/thumbnails/pop-culture.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/jungle.jpg": {
+    "file": "assets/jungle.29db9e08.jpg",
+    "src": "resources/assets/img/themes/thumbnails/jungle.jpg"
+  },
+  "resources/assets/img/themes/bg-jungle.jpg": {
+    "file": "assets/bg-jungle.5d186916.jpg",
+    "src": "resources/assets/img/themes/bg-jungle.jpg"
+  },
+  "resources/assets/img/themes/bg-mountains.jpg": {
+    "file": "assets/bg-mountains.6ccf168b.jpg",
+    "src": "resources/assets/img/themes/bg-mountains.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/mountains.jpg": {
+    "file": "assets/mountains.97141680.jpg",
+    "src": "resources/assets/img/themes/thumbnails/mountains.jpg"
+  },
+  "resources/assets/img/themes/bg-pines.jpg": {
+    "file": "assets/bg-pines.31a4b2c2.jpg",
+    "src": "resources/assets/img/themes/bg-pines.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/pines.jpg": {
+    "file": "assets/pines.2af91ebb.jpg",
+    "src": "resources/assets/img/themes/thumbnails/pines.jpg"
+  },
+  "resources/assets/img/themes/bg-nemo.jpg": {
+    "file": "assets/bg-nemo.06d871ec.jpg",
+    "src": "resources/assets/img/themes/bg-nemo.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/nemo.jpg": {
+    "file": "assets/nemo.5e1cc4a3.jpg",
+    "src": "resources/assets/img/themes/thumbnails/nemo.jpg"
+  },
+  "resources/assets/img/themes/bg-cat.jpg": {
+    "file": "assets/bg-cat.2055812b.jpg",
+    "src": "resources/assets/img/themes/bg-cat.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/cat.jpg": {
+    "file": "assets/cat.e0f67152.jpg",
+    "src": "resources/assets/img/themes/thumbnails/cat.jpg"
+  },
+  "resources/assets/img/themes/bg-dawn.jpg": {
+    "file": "assets/bg-dawn.50df25d4.jpg",
+    "src": "resources/assets/img/themes/bg-dawn.jpg"
+  },
+  "resources/assets/img/themes/thumbnails/dawn.jpg": {
+    "file": "assets/dawn.9942cd51.jpg",
+    "src": "resources/assets/img/themes/thumbnails/dawn.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/nx_3js.jpg": {
+    "file": "assets/nx_3js.c650ec73.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/nx_3js.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/ny_3js.jpg": {
+    "file": "assets/ny_3js.6a7c247d.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/ny_3js.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/nz_3js.jpg": {
+    "file": "assets/nz_3js.52e40f11.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/nz_3js.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/px_3js.jpg": {
+    "file": "assets/px_3js.441b7500.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/px_3js.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/py_3js.jpg": {
+    "file": "assets/py_3js.f5fc5da9.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/py_3js.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/pz_3js.jpg": {
+    "file": "assets/pz_3js.788fef10.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/pz_3js.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/nx.jpg": {
+    "file": "assets/nx.4d5c02b9.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/nx.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/ny.jpg": {
+    "file": "assets/ny.e343c0ac.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/ny.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/nz.jpg": {
+    "file": "assets/nz.3c4e001b.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/nz.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/px.jpg": {
+    "file": "assets/px.1f159379.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/px.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/py.jpg": {
+    "file": "assets/py.ef516744.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/py.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/pz.jpg": {
+    "file": "assets/pz.79d4b89c.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/pz.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/sprite_additive_rect.png": {
+    "file": "assets/sprite_additive_rect.65047332.png",
+    "src": "resources/assets/js/visualizers/asteroid/assets/sprite_additive_rect.png"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/normal.jpg": {
+    "file": "assets/normal.3904ff76.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/normal.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/roughness.jpg": {
+    "file": "assets/roughness.8a2957ac.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/roughness.jpg"
+  },
+  "resources/assets/js/visualizers/asteroid/assets/metallic.jpg": {
+    "file": "assets/metallic.c289a137.jpg",
+    "src": "resources/assets/js/visualizers/asteroid/assets/metallic.jpg"
+  },
+  "resources/assets/img/sponsors/render.svg": {
+    "file": "assets/render.fa026c32.svg",
+    "src": "resources/assets/img/sponsors/render.svg"
+  },
+  "resources/assets/img/sponsors/keycdn.svg": {
+    "file": "assets/keycdn.4eda7c5b.svg",
+    "src": "resources/assets/img/sponsors/keycdn.svg"
+  },
+  "resources/assets/img/sponsors/what-the-diff.svg": {
+    "file": "assets/what-the-diff.017b5dab.svg",
+    "src": "resources/assets/img/sponsors/what-the-diff.svg"
+  },
+  "resources/assets/js/app.ts": {
+    "file": "assets/app.be92839b.js",
+    "src": "resources/assets/js/app.ts",
+    "isEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "resources/assets/js/components/utils/HotkeyListener.vue",
+      "resources/assets/js/components/auth/LoginForm.vue",
+      "_index.f07e8060.js",
+      "resources/assets/js/components/album/AlbumContextMenu.vue",
+      "resources/assets/js/components/artist/ArtistContextMenu.vue",
+      "resources/assets/js/components/playlist/PlaylistContextMenu.vue",
+      "resources/assets/js/components/playlist/PlaylistFolderContextMenu.vue",
+      "resources/assets/js/components/song/SongContextMenu.vue",
+      "resources/assets/js/components/playlist/CreateNewPlaylistContextMenu.vue",
+      "resources/assets/js/components/meta/SupportKoel.vue",
+      "resources/assets/js/components/ui/upload/DropZone.vue",
+      "resources/assets/js/components/invitation/AcceptInvitation.vue"
+    ],
+    "css": [
+      "assets/app.f853c32d.css"
+    ]
+  },
+  "resources/assets/js/remote/app.ts": {
+    "file": "assets/app.3aabb93b.js",
+    "src": "resources/assets/js/remote/app.ts",
+    "isEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_nouislider.56dafe2f.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/ui/AlbumArtOverlay.vue",
+      "resources/assets/js/components/auth/LoginForm.vue"
+    ],
+    "css": [
+      "assets/app.71e58647.css"
+    ]
+  },
+  "_index.8f0bf197.js": {
+    "file": "assets/index.8f0bf197.js",
+    "assets": [
+      "assets/default.204edbc2.svg",
+      "assets/bg-rose-petals.66ba796f.svg",
+      "assets/bg-purple-waves.b7ea7736.svg",
+      "assets/bg-pop-culture.99dd6fd2.jpg",
+      "assets/pop-culture.423c9b5a.jpg",
+      "assets/bg-jungle.5d186916.jpg",
+      "assets/jungle.29db9e08.jpg",
+      "assets/bg-mountains.6ccf168b.jpg",
+      "assets/mountains.97141680.jpg",
+      "assets/bg-pines.31a4b2c2.jpg",
+      "assets/pines.2af91ebb.jpg",
+      "assets/bg-nemo.06d871ec.jpg",
+      "assets/nemo.5e1cc4a3.jpg",
+      "assets/bg-cat.2055812b.jpg",
+      "assets/cat.e0f67152.jpg",
+      "assets/bg-dawn.50df25d4.jpg",
+      "assets/dawn.9942cd51.jpg"
+    ]
+  },
+  "_Btn.abe2bb59.js": {
+    "file": "assets/Btn.abe2bb59.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/Btn.535c40ae.css"
+    ]
+  },
+  "__plugin-vue_export-helper.cdc0426e.js": {
+    "file": "assets/_plugin-vue_export-helper.cdc0426e.js"
+  },
+  "_nouislider.56dafe2f.js": {
+    "file": "assets/nouislider.56dafe2f.js"
+  },
+  "resources/assets/js/components/utils/HotkeyListener.vue": {
+    "file": "assets/HotkeyListener.e84cf9f1.js",
+    "src": "resources/assets/js/components/utils/HotkeyListener.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/auth/LoginForm.vue": {
+    "file": "assets/LoginForm.12838887.js",
+    "src": "resources/assets/js/components/auth/LoginForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_logo.cf71f526.js",
+      "_Btn.abe2bb59.js",
+      "_PasswordField.1e406e0f.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/LoginForm.755cf9db.css"
+    ]
+  },
+  "_logo.cf71f526.js": {
+    "file": "assets/logo.cf71f526.js",
+    "assets": [
+      "assets/logo.c97b706c.svg"
+    ]
+  },
+  "_PasswordField.1e406e0f.js": {
+    "file": "assets/PasswordField.1e406e0f.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/PasswordField.51a1cd8b.css"
+    ]
+  },
+  "_index.f07e8060.js": {
+    "file": "assets/index.f07e8060.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_useAuthorization.5beda362.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/song/SongListFilter.vue",
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/components/ui/upload/UploadItem.vue",
+      "resources/assets/js/components/screens/UserListScreen.vue",
+      "resources/assets/js/components/ui/AlbumArtOverlay.vue",
+      "resources/assets/js/components/screens/AlbumScreen.vue",
+      "resources/assets/js/components/screens/ArtistScreen.vue",
+      "resources/assets/js/components/screens/GenreScreen.vue",
+      "resources/assets/js/components/screens/SettingsScreen.vue",
+      "resources/assets/js/components/screens/ProfileScreen.vue",
+      "resources/assets/js/components/screens/YouTubeScreen.vue",
+      "resources/assets/js/components/screens/search/SearchSongResultsScreen.vue",
+      "resources/assets/js/components/screens/NotFoundScreen.vue",
+      "resources/assets/js/components/screens/VisualizerScreen.vue",
+      "resources/assets/js/components/ui/LyricsPane.vue",
+      "resources/assets/js/components/artist/ArtistInfo.vue",
+      "resources/assets/js/components/album/AlbumInfo.vue",
+      "_YouTubeVideoList.3d9b2478.js",
+      "resources/assets/js/components/ui/ExtraDrawerTabHeader.vue",
+      "resources/assets/js/components/layout/ModalWrapper.vue"
+    ],
+    "css": [
+      "assets/index.5481f61c.css"
+    ]
+  },
+  "_useAuthorization.5beda362.js": {
+    "file": "assets/useAuthorization.5beda362.js",
+    "imports": [
+      "_index.8f0bf197.js"
+    ]
+  },
+  "_downloadService.40931a22.js": {
+    "file": "assets/downloadService.40931a22.js",
+    "imports": [
+      "_index.8f0bf197.js"
+    ]
+  },
+  "_useSongMenuMethods.5f7dfc3e.js": {
+    "file": "assets/useSongMenuMethods.5f7dfc3e.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js"
+    ]
+  },
+  "_useUpload.8e7c76aa.js": {
+    "file": "assets/useUpload.8e7c76aa.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "_useAuthorization.5beda362.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js"
+    ]
+  },
+  "resources/assets/js/components/ui/SoundBars.vue": {
+    "file": "assets/SoundBars.e7c8d9da.js",
+    "src": "resources/assets/js/components/ui/SoundBars.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/assets/js/app.ts",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js"
+    ]
+  },
+  "resources/assets/js/components/album/AlbumContextMenu.vue": {
+    "file": "assets/AlbumContextMenu.e8282060.js",
+    "src": "resources/assets/js/components/album/AlbumContextMenu.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/app.ts",
+      "_useContextMenu.bb260cc5.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "_useContextMenu.bb260cc5.js": {
+    "file": "assets/useContextMenu.bb260cc5.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/artist/ArtistContextMenu.vue": {
+    "file": "assets/ArtistContextMenu.074e8abb.js",
+    "src": "resources/assets/js/components/artist/ArtistContextMenu.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/app.ts",
+      "_useContextMenu.bb260cc5.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/playlist/PlaylistContextMenu.vue": {
+    "file": "assets/PlaylistContextMenu.ad252294.js",
+    "src": "resources/assets/js/components/playlist/PlaylistContextMenu.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useContextMenu.bb260cc5.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/playlist/PlaylistFolderContextMenu.vue": {
+    "file": "assets/PlaylistFolderContextMenu.30dafdf3.js",
+    "src": "resources/assets/js/components/playlist/PlaylistFolderContextMenu.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useContextMenu.bb260cc5.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/song/SongContextMenu.vue": {
+    "file": "assets/SongContextMenu.7fc6a429.js",
+    "src": "resources/assets/js/components/song/SongContextMenu.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/app.ts",
+      "_useAuthorization.5beda362.js",
+      "_useContextMenu.bb260cc5.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/SongContextMenu.0966efbe.css"
+    ]
+  },
+  "resources/assets/js/components/playlist/CreateNewPlaylistContextMenu.vue": {
+    "file": "assets/CreateNewPlaylistContextMenu.447498c6.js",
+    "src": "resources/assets/js/components/playlist/CreateNewPlaylistContextMenu.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_useContextMenu.bb260cc5.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/meta/SupportKoel.vue": {
+    "file": "assets/SupportKoel.1af604ed.js",
+    "src": "resources/assets/js/components/meta/SupportKoel.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/SupportKoel.982aa285.css"
+    ]
+  },
+  "resources/assets/js/components/ui/upload/DropZone.vue": {
+    "file": "assets/DropZone.e24dc243.js",
+    "src": "resources/assets/js/components/ui/upload/DropZone.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_useUpload.8e7c76aa.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js"
+    ],
+    "css": [
+      "assets/DropZone.8092a43b.css"
+    ]
+  },
+  "resources/assets/js/components/invitation/AcceptInvitation.vue": {
+    "file": "assets/AcceptInvitation.258376f9.js",
+    "src": "resources/assets/js/components/invitation/AcceptInvitation.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_invitationService.3ec71d57.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_PasswordField.1e406e0f.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/AcceptInvitation.ca77158f.css"
+    ]
+  },
+  "_invitationService.3ec71d57.js": {
+    "file": "assets/invitationService.3ec71d57.js",
+    "imports": [
+      "_index.8f0bf197.js"
+    ]
+  },
+  "resources/assets/js/components/ui/AlbumArtOverlay.vue": {
+    "file": "assets/AlbumArtOverlay.3ff94317.js",
+    "src": "resources/assets/js/components/ui/AlbumArtOverlay.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/AlbumArtOverlay.9187d168.css"
+    ]
+  },
+  "resources/assets/js/components/layout/ModalWrapper.vue": {
+    "file": "assets/ModalWrapper.ae0d5878.js",
+    "src": "resources/assets/js/components/layout/ModalWrapper.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_Btn.abe2bb59.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/playlist/CreatePlaylistForm.vue",
+      "resources/assets/js/components/playlist/EditPlaylistForm.vue",
+      "resources/assets/js/components/playlist/smart-playlist/CreateSmartPlaylistForm.vue",
+      "resources/assets/js/components/playlist/smart-playlist/EditSmartPlaylistForm.vue",
+      "resources/assets/js/components/user/AddUserForm.vue",
+      "resources/assets/js/components/user/EditUserForm.vue",
+      "resources/assets/js/components/user/InviteUserForm.vue",
+      "resources/assets/js/components/song/EditSongForm.vue",
+      "resources/assets/js/components/playlist/CreatePlaylistFolderForm.vue",
+      "resources/assets/js/components/playlist/EditPlaylistFolderForm.vue",
+      "resources/assets/js/components/meta/AboutKoelModal.vue",
+      "resources/assets/js/components/ui/Equalizer.vue"
+    ],
+    "css": [
+      "assets/ModalWrapper.a502f15f.css"
+    ]
+  },
+  "resources/assets/js/components/screens/UserListScreen.vue": {
+    "file": "assets/UserListScreen.f4d6a384.js",
+    "src": "resources/assets/js/components/screens/UserListScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_index.f07e8060.js",
+      "_invitationService.3ec71d57.js",
+      "_useAuthorization.5beda362.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js"
+    ],
+    "css": [
+      "assets/UserListScreen.c7b5d830.css"
+    ]
+  },
+  "resources/assets/js/components/screens/AlbumScreen.vue": {
+    "file": "assets/AlbumScreen.c38275ce.js",
+    "src": "resources/assets/js/components/screens/AlbumScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js",
+      "_ScreenHeaderSkeleton.a1e2892b.js",
+      "_ArtistAlbumScreenTabs.b0203fe8.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/album/AlbumInfo.vue",
+      "resources/assets/js/components/album/AlbumCard.vue",
+      "_index.f07e8060.js"
+    ],
+    "css": [
+      "assets/AlbumScreen.c0acbc4c.css"
+    ]
+  },
+  "_ScreenHeaderSkeleton.a1e2892b.js": {
+    "file": "assets/ScreenHeaderSkeleton.a1e2892b.js",
+    "imports": [
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_index.8f0bf197.js"
+    ],
+    "css": [
+      "assets/ScreenHeaderSkeleton.37a4fe2b.css"
+    ]
+  },
+  "_ArtistAlbumScreenTabs.b0203fe8.js": {
+    "file": "assets/ArtistAlbumScreenTabs.b0203fe8.js",
+    "imports": [
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_index.8f0bf197.js"
+    ],
+    "css": [
+      "assets/ArtistAlbumScreenTabs.109d13f3.css"
+    ]
+  },
+  "resources/assets/js/components/screens/ArtistScreen.vue": {
+    "file": "assets/ArtistScreen.750a1e53.js",
+    "src": "resources/assets/js/components/screens/ArtistScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js",
+      "_ScreenHeaderSkeleton.a1e2892b.js",
+      "_ArtistAlbumScreenTabs.b0203fe8.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/artist/ArtistInfo.vue",
+      "resources/assets/js/components/album/AlbumCard.vue",
+      "_index.f07e8060.js"
+    ],
+    "css": [
+      "assets/ArtistScreen.263a5a37.css"
+    ]
+  },
+  "resources/assets/js/components/screens/GenreScreen.vue": {
+    "file": "assets/GenreScreen.18c7241f.js",
+    "src": "resources/assets/js/components/screens/GenreScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_index.f07e8060.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_ScreenHeaderSkeleton.a1e2892b.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ]
+  },
+  "resources/assets/js/components/screens/SettingsScreen.vue": {
+    "file": "assets/SettingsScreen.7b7ad1cc.js",
+    "src": "resources/assets/js/components/screens/SettingsScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/app.ts",
+      "_useOverlay.b8f8c136.js",
+      "_index.f07e8060.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "css": [
+      "assets/SettingsScreen.66815e26.css"
+    ]
+  },
+  "_useOverlay.b8f8c136.js": {
+    "file": "assets/useOverlay.b8f8c136.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts"
+    ]
+  },
+  "resources/assets/js/components/screens/ProfileScreen.vue": {
+    "file": "assets/ProfileScreen.a5649900.js",
+    "src": "resources/assets/js/components/screens/ProfileScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.f07e8060.js",
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/app.ts",
+      "_PasswordField.1e406e0f.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_CheckBox.c099da78.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "_Btn.abe2bb59.js"
+    ],
+    "css": [
+      "assets/ProfileScreen.2d51f6ce.css"
+    ]
+  },
+  "_CheckBox.c099da78.js": {
+    "file": "assets/CheckBox.c099da78.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/CheckBox.24b4716e.css"
+    ]
+  },
+  "resources/assets/js/components/screens/YouTubeScreen.vue": {
+    "file": "assets/YouTubeScreen.3edd1986.js",
+    "src": "resources/assets/js/components/screens/YouTubeScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.f07e8060.js",
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_Btn.abe2bb59.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "css": [
+      "assets/YouTubeScreen.11adbd17.css"
+    ]
+  },
+  "resources/assets/js/components/screens/search/SearchSongResultsScreen.vue": {
+    "file": "assets/SearchSongResultsScreen.63eb9c8c.js",
+    "src": "resources/assets/js/components/screens/search/SearchSongResultsScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ]
+  },
+  "resources/assets/js/components/screens/NotFoundScreen.vue": {
+    "file": "assets/NotFoundScreen.491ac683.js",
+    "src": "resources/assets/js/components/screens/NotFoundScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_index.f07e8060.js",
+      "_useAuthorization.5beda362.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ]
+  },
+  "resources/assets/js/components/screens/VisualizerScreen.vue": {
+    "file": "assets/VisualizerScreen.62986884.js",
+    "src": "resources/assets/js/components/screens/VisualizerScreen.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/visualizers/default.ts",
+      "resources/assets/js/visualizers/plane-mesh/index.ts",
+      "resources/assets/js/visualizers/waveform/index.ts",
+      "resources/assets/js/visualizers/fluid-cube/index.ts",
+      "resources/assets/js/visualizers/asteroid/scripts/index.ts"
+    ],
+    "css": [
+      "assets/VisualizerScreen.f8497dd2.css"
+    ]
+  },
+  "resources/assets/js/components/ui/upload/UploadItem.vue": {
+    "file": "assets/UploadItem.4c0e310b.js",
+    "src": "resources/assets/js/components/ui/upload/UploadItem.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "dynamicImports": [
+      "_Btn.abe2bb59.js"
+    ],
+    "css": [
+      "assets/UploadItem.a7426bcd.css"
+    ]
+  },
+  "resources/assets/js/components/ui/LyricsPane.vue": {
+    "file": "assets/LyricsPane.a807ecda.js",
+    "src": "resources/assets/js/components/ui/LyricsPane.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_useAuthorization.5beda362.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/ui/Magnifier.vue"
+    ],
+    "css": [
+      "assets/LyricsPane.0526127e.css"
+    ]
+  },
+  "resources/assets/js/components/artist/ArtistInfo.vue": {
+    "file": "assets/ArtistInfo.6b4834e4.js",
+    "src": "resources/assets/js/components/artist/ArtistInfo.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_mediaInfoService.83930c31.js",
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "css": [
+      "assets/ArtistInfo.bd5a90e2.css"
+    ]
+  },
+  "_mediaInfoService.83930c31.js": {
+    "file": "assets/mediaInfoService.83930c31.js",
+    "imports": [
+      "_index.8f0bf197.js"
+    ]
+  },
+  "resources/assets/js/components/album/AlbumInfo.vue": {
+    "file": "assets/AlbumInfo.26b205e3.js",
+    "src": "resources/assets/js/components/album/AlbumInfo.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_mediaInfoService.83930c31.js",
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/album/AlbumTrackList.vue"
+    ],
+    "css": [
+      "assets/AlbumInfo.51727455.css"
+    ]
+  },
+  "_YouTubeVideoList.3d9b2478.js": {
+    "file": "assets/YouTubeVideoList.3d9b2478.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "dynamicImports": [
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/components/ui/YouTubeVideoItem.vue"
+    ],
+    "css": [
+      "assets/YouTubeVideoList.0280e939.css"
+    ]
+  },
+  "resources/assets/js/components/ui/ExtraDrawerTabHeader.vue": {
+    "file": "assets/ExtraDrawerTabHeader.9aabbe75.js",
+    "src": "resources/assets/js/components/ui/ExtraDrawerTabHeader.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_index.f07e8060.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ]
+  },
+  "resources/assets/js/components/song/SongListFilter.vue": {
+    "file": "assets/SongListFilter.9ace6316.js",
+    "src": "resources/assets/js/components/song/SongListFilter.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/SongListFilter.72817c70.css"
+    ]
+  },
+  "resources/assets/js/components/playlist/CreatePlaylistForm.vue": {
+    "file": "assets/CreatePlaylistForm.efb79935.js",
+    "src": "resources/assets/js/components/playlist/CreatePlaylistForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/CreatePlaylistForm.6adcb7b8.css"
+    ]
+  },
+  "_useModal.8598f864.js": {
+    "file": "assets/useModal.8598f864.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts"
+    ]
+  },
+  "resources/assets/js/components/playlist/EditPlaylistForm.vue": {
+    "file": "assets/EditPlaylistForm.13fa0061.js",
+    "src": "resources/assets/js/components/playlist/EditPlaylistForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/EditPlaylistForm.39b0db93.css"
+    ]
+  },
+  "resources/assets/js/components/playlist/smart-playlist/CreateSmartPlaylistForm.vue": {
+    "file": "assets/CreateSmartPlaylistForm.edd9ef05.js",
+    "src": "resources/assets/js/components/playlist/smart-playlist/CreateSmartPlaylistForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_useSmartPlaylistForm.7df2de33.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/assets/js/components/ui/SoundBars.vue"
+    ]
+  },
+  "_useSmartPlaylistForm.7df2de33.js": {
+    "file": "assets/useSmartPlaylistForm.7df2de33.js",
+    "imports": [
+      "_index.8f0bf197.js",
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/app.ts",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/assets/js/components/ui/SoundBars.vue"
+    ],
+    "dynamicImports": [
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRule.vue"
+    ]
+  },
+  "resources/assets/js/components/playlist/smart-playlist/EditSmartPlaylistForm.vue": {
+    "file": "assets/EditSmartPlaylistForm.c82bd36f.js",
+    "src": "resources/assets/js/components/playlist/smart-playlist/EditSmartPlaylistForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_useSmartPlaylistForm.7df2de33.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/assets/js/components/ui/SoundBars.vue"
+    ]
+  },
+  "resources/assets/js/components/user/AddUserForm.vue": {
+    "file": "assets/AddUserForm.c0de41c0.js",
+    "src": "resources/assets/js/components/user/AddUserForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "_TooltipIcon.vue_vue_type_script_setup_true_lang.7d6ec67c.js",
+      "_CheckBox.c099da78.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/AddUserForm.111b8c6f.css"
+    ]
+  },
+  "_TooltipIcon.vue_vue_type_script_setup_true_lang.7d6ec67c.js": {
+    "file": "assets/TooltipIcon.vue_vue_type_script_setup_true_lang.7d6ec67c.js",
+    "imports": [
+      "_index.8f0bf197.js"
+    ]
+  },
+  "resources/assets/js/components/user/EditUserForm.vue": {
+    "file": "assets/EditUserForm.2d733a60.js",
+    "src": "resources/assets/js/components/user/EditUserForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "_TooltipIcon.vue_vue_type_script_setup_true_lang.7d6ec67c.js",
+      "_CheckBox.c099da78.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/EditUserForm.837e0917.css"
+    ]
+  },
+  "resources/assets/js/components/user/InviteUserForm.vue": {
+    "file": "assets/InviteUserForm.bf9c74f9.js",
+    "src": "resources/assets/js/components/user/InviteUserForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_invitationService.3ec71d57.js",
+      "resources/assets/js/app.ts",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "_TooltipIcon.vue_vue_type_script_setup_true_lang.7d6ec67c.js",
+      "_CheckBox.c099da78.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/InviteUserForm.4b721089.css"
+    ]
+  },
+  "resources/assets/js/components/song/EditSongForm.vue": {
+    "file": "assets/EditSongForm.d32d5dbc.js",
+    "src": "resources/assets/js/components/song/EditSongForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/EditSongForm.07faa400.css"
+    ]
+  },
+  "resources/assets/js/components/playlist/CreatePlaylistFolderForm.vue": {
+    "file": "assets/CreatePlaylistFolderForm.8151679e.js",
+    "src": "resources/assets/js/components/playlist/CreatePlaylistFolderForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/playlist/EditPlaylistFolderForm.vue": {
+    "file": "assets/EditPlaylistFolderForm.d07cdadf.js",
+    "src": "resources/assets/js/components/playlist/EditPlaylistFolderForm.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_useModal.8598f864.js",
+      "_useOverlay.b8f8c136.js",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/components/meta/AboutKoelModal.vue": {
+    "file": "assets/AboutKoelModal.342f3cc6.js",
+    "src": "resources/assets/js/components/meta/AboutKoelModal.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_logo.cf71f526.js",
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/app.ts",
+      "_index.f07e8060.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "css": [
+      "assets/AboutKoelModal.44cf1604.css"
+    ],
+    "assets": [
+      "assets/render.fa026c32.svg",
+      "assets/keycdn.4eda7c5b.svg",
+      "assets/what-the-diff.017b5dab.svg"
+    ]
+  },
+  "resources/assets/js/components/ui/Equalizer.vue": {
+    "file": "assets/Equalizer.e9806a8e.js",
+    "src": "resources/assets/js/components/ui/Equalizer.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_nouislider.56dafe2f.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/Equalizer.a7d4cabc.css"
+    ]
+  },
+  "resources/assets/js/components/album/AlbumCard.vue": {
+    "file": "assets/AlbumCard.1926e624.js",
+    "src": "resources/assets/js/components/album/AlbumCard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.f07e8060.js",
+      "_index.8f0bf197.js",
+      "_useAuthorization.5beda362.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ]
+  },
+  "resources/assets/js/visualizers/default.ts": {
+    "file": "assets/default.914b4bd5.js",
+    "src": "resources/assets/js/visualizers/default.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/visualizers/plane-mesh/index.ts": {
+    "file": "assets/index.ac2e699a.js",
+    "src": "resources/assets/js/visualizers/plane-mesh/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_three.module.2f883259.js",
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "_three.module.2f883259.js": {
+    "file": "assets/three.module.2f883259.js"
+  },
+  "resources/assets/js/visualizers/waveform/index.ts": {
+    "file": "assets/index.34562ee1.js",
+    "src": "resources/assets/js/visualizers/waveform/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_three.module.2f883259.js",
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/visualizers/fluid-cube/index.ts": {
+    "file": "assets/index.938129ce.js",
+    "src": "resources/assets/js/visualizers/fluid-cube/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "resources/assets/js/visualizers/asteroid/scripts/index.ts": {
+    "file": "assets/index.656d65be.js",
+    "src": "resources/assets/js/visualizers/asteroid/scripts/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_three.module.2f883259.js",
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "assets": [
+      "assets/nx_3js.c650ec73.jpg",
+      "assets/ny_3js.6a7c247d.jpg",
+      "assets/nz_3js.52e40f11.jpg",
+      "assets/px_3js.441b7500.jpg",
+      "assets/py_3js.f5fc5da9.jpg",
+      "assets/pz_3js.788fef10.jpg",
+      "assets/nx.4d5c02b9.jpg",
+      "assets/ny.e343c0ac.jpg",
+      "assets/nz.3c4e001b.jpg",
+      "assets/px.1f159379.jpg",
+      "assets/py.ef516744.jpg",
+      "assets/pz.79d4b89c.jpg",
+      "assets/sprite_additive_rect.65047332.png",
+      "assets/normal.3904ff76.jpg",
+      "assets/roughness.8a2957ac.jpg",
+      "assets/metallic.c289a137.jpg"
+    ]
+  },
+  "resources/assets/js/components/ui/Magnifier.vue": {
+    "file": "assets/Magnifier.82d45106.js",
+    "src": "resources/assets/js/components/ui/Magnifier.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/Magnifier.25ac3772.css"
+    ]
+  },
+  "resources/assets/js/components/album/AlbumTrackList.vue": {
+    "file": "assets/AlbumTrackList.7d653698.js",
+    "src": "resources/assets/js/components/album/AlbumTrackList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "_index.f07e8060.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "_useAuthorization.5beda362.js",
+      "_useSongMenuMethods.5f7dfc3e.js",
+      "_downloadService.40931a22.js",
+      "resources/assets/js/components/ui/SoundBars.vue",
+      "_useUpload.8e7c76aa.js"
+    ],
+    "dynamicImports": [
+      "resources/assets/js/components/ui/AppleMusicButton.vue"
+    ],
+    "css": [
+      "assets/AlbumTrackList.ff33777c.css"
+    ]
+  },
+  "resources/assets/js/components/ui/YouTubeVideoItem.vue": {
+    "file": "assets/YouTubeVideoItem.f6d1736b.js",
+    "src": "resources/assets/js/components/ui/YouTubeVideoItem.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "_YouTubeVideoList.3d9b2478.js",
+      "resources/assets/js/app.ts",
+      "_Btn.abe2bb59.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/YouTubeVideoItem.641353cf.css"
+    ]
+  },
+  "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRule.vue": {
+    "file": "assets/SmartPlaylistRule.845f6299.js",
+    "src": "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRule.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "dynamicImports": [
+      "_Btn.abe2bb59.js",
+      "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRuleInput.vue"
+    ],
+    "css": [
+      "assets/SmartPlaylistRule.6d7a99da.css"
+    ]
+  },
+  "resources/assets/js/components/ui/AppleMusicButton.vue": {
+    "file": "assets/AppleMusicButton.b76d590c.js",
+    "src": "resources/assets/js/components/ui/AppleMusicButton.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/AppleMusicButton.6052fbb9.css"
+    ]
+  },
+  "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRuleInput.vue": {
+    "file": "assets/SmartPlaylistRuleInput.52cc7d7a.js",
+    "src": "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRuleInput.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index.8f0bf197.js",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "css": [
+      "assets/SmartPlaylistRuleInput.024ff766.css"
+    ]
+  },
+  "Btn.css": {
+    "file": "assets/Btn.535c40ae.css",
+    "src": "Btn.css"
+  },
+  "resources/assets/js/components/screens/YouTubeScreen.css": {
+    "file": "assets/YouTubeScreen.11adbd17.css",
+    "src": "resources/assets/js/components/screens/YouTubeScreen.css"
+  },
+  "resources/assets/js/components/auth/LoginForm.css": {
+    "file": "assets/LoginForm.755cf9db.css",
+    "src": "resources/assets/js/components/auth/LoginForm.css"
+  },
+  "resources/assets/js/components/invitation/AcceptInvitation.css": {
+    "file": "assets/AcceptInvitation.ca77158f.css",
+    "src": "resources/assets/js/components/invitation/AcceptInvitation.css"
+  },
+  "resources/assets/js/components/layout/ModalWrapper.css": {
+    "file": "assets/ModalWrapper.a502f15f.css",
+    "src": "resources/assets/js/components/layout/ModalWrapper.css"
+  },
+  "PasswordField.css": {
+    "file": "assets/PasswordField.51a1cd8b.css",
+    "src": "PasswordField.css"
+  },
+  "resources/assets/js/components/ui/AlbumArtOverlay.css": {
+    "file": "assets/AlbumArtOverlay.9187d168.css",
+    "src": "resources/assets/js/components/ui/AlbumArtOverlay.css"
+  },
+  "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRuleInput.css": {
+    "file": "assets/SmartPlaylistRuleInput.024ff766.css",
+    "src": "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRuleInput.css"
+  },
+  "YouTubeVideoList.css": {
+    "file": "assets/YouTubeVideoList.0280e939.css",
+    "src": "YouTubeVideoList.css"
+  },
+  "resources/assets/js/components/ui/Magnifier.css": {
+    "file": "assets/Magnifier.25ac3772.css",
+    "src": "resources/assets/js/components/ui/Magnifier.css"
+  },
+  "resources/assets/js/components/ui/AppleMusicButton.css": {
+    "file": "assets/AppleMusicButton.6052fbb9.css",
+    "src": "resources/assets/js/components/ui/AppleMusicButton.css"
+  },
+  "resources/assets/js/components/ui/YouTubeVideoItem.css": {
+    "file": "assets/YouTubeVideoItem.641353cf.css",
+    "src": "resources/assets/js/components/ui/YouTubeVideoItem.css"
+  },
+  "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRule.css": {
+    "file": "assets/SmartPlaylistRule.6d7a99da.css",
+    "src": "resources/assets/js/components/playlist/smart-playlist/SmartPlaylistRule.css"
+  },
+  "resources/assets/js/components/album/AlbumTrackList.css": {
+    "file": "assets/AlbumTrackList.ff33777c.css",
+    "src": "resources/assets/js/components/album/AlbumTrackList.css"
+  },
+  "resources/assets/js/components/song/SongContextMenu.css": {
+    "file": "assets/SongContextMenu.0966efbe.css",
+    "src": "resources/assets/js/components/song/SongContextMenu.css"
+  },
+  "ScreenHeaderSkeleton.css": {
+    "file": "assets/ScreenHeaderSkeleton.37a4fe2b.css",
+    "src": "ScreenHeaderSkeleton.css"
+  },
+  "resources/assets/js/remote/app.css": {
+    "file": "assets/app.71e58647.css",
+    "src": "resources/assets/js/remote/app.css"
+  },
+  "resources/assets/js/components/album/AlbumInfo.css": {
+    "file": "assets/AlbumInfo.51727455.css",
+    "src": "resources/assets/js/components/album/AlbumInfo.css"
+  },
+  "resources/assets/js/components/screens/AlbumScreen.css": {
+    "file": "assets/AlbumScreen.c0acbc4c.css",
+    "src": "resources/assets/js/components/screens/AlbumScreen.css"
+  },
+  "resources/assets/js/components/screens/ArtistScreen.css": {
+    "file": "assets/ArtistScreen.263a5a37.css",
+    "src": "resources/assets/js/components/screens/ArtistScreen.css"
+  },
+  "ArtistAlbumScreenTabs.css": {
+    "file": "assets/ArtistAlbumScreenTabs.109d13f3.css",
+    "src": "ArtistAlbumScreenTabs.css"
+  },
+  "resources/assets/js/components/screens/SettingsScreen.css": {
+    "file": "assets/SettingsScreen.66815e26.css",
+    "src": "resources/assets/js/components/screens/SettingsScreen.css"
+  },
+  "CheckBox.css": {
+    "file": "assets/CheckBox.24b4716e.css",
+    "src": "CheckBox.css"
+  },
+  "resources/assets/js/components/meta/SupportKoel.css": {
+    "file": "assets/SupportKoel.982aa285.css",
+    "src": "resources/assets/js/components/meta/SupportKoel.css"
+  },
+  "resources/assets/js/components/screens/UserListScreen.css": {
+    "file": "assets/UserListScreen.c7b5d830.css",
+    "src": "resources/assets/js/components/screens/UserListScreen.css"
+  },
+  "resources/assets/js/components/screens/ProfileScreen.css": {
+    "file": "assets/ProfileScreen.2d51f6ce.css",
+    "src": "resources/assets/js/components/screens/ProfileScreen.css"
+  },
+  "resources/assets/js/components/ui/upload/DropZone.css": {
+    "file": "assets/DropZone.8092a43b.css",
+    "src": "resources/assets/js/components/ui/upload/DropZone.css"
+  },
+  "resources/assets/js/components/artist/ArtistInfo.css": {
+    "file": "assets/ArtistInfo.bd5a90e2.css",
+    "src": "resources/assets/js/components/artist/ArtistInfo.css"
+  },
+  "resources/assets/js/components/screens/VisualizerScreen.css": {
+    "file": "assets/VisualizerScreen.f8497dd2.css",
+    "src": "resources/assets/js/components/screens/VisualizerScreen.css"
+  },
+  "resources/assets/js/components/ui/upload/UploadItem.css": {
+    "file": "assets/UploadItem.a7426bcd.css",
+    "src": "resources/assets/js/components/ui/upload/UploadItem.css"
+  },
+  "resources/assets/js/components/song/SongListFilter.css": {
+    "file": "assets/SongListFilter.72817c70.css",
+    "src": "resources/assets/js/components/song/SongListFilter.css"
+  },
+  "resources/assets/js/components/playlist/EditPlaylistForm.css": {
+    "file": "assets/EditPlaylistForm.39b0db93.css",
+    "src": "resources/assets/js/components/playlist/EditPlaylistForm.css"
+  },
+  "index.css": {
+    "file": "assets/index.5481f61c.css",
+    "src": "index.css"
+  },
+  "resources/assets/js/components/user/AddUserForm.css": {
+    "file": "assets/AddUserForm.111b8c6f.css",
+    "src": "resources/assets/js/components/user/AddUserForm.css"
+  },
+  "resources/assets/js/components/user/EditUserForm.css": {
+    "file": "assets/EditUserForm.837e0917.css",
+    "src": "resources/assets/js/components/user/EditUserForm.css"
+  },
+  "resources/assets/js/components/song/EditSongForm.css": {
+    "file": "assets/EditSongForm.07faa400.css",
+    "src": "resources/assets/js/components/song/EditSongForm.css"
+  },
+  "resources/assets/js/components/playlist/CreatePlaylistForm.css": {
+    "file": "assets/CreatePlaylistForm.6adcb7b8.css",
+    "src": "resources/assets/js/components/playlist/CreatePlaylistForm.css"
+  },
+  "resources/assets/js/components/user/InviteUserForm.css": {
+    "file": "assets/InviteUserForm.4b721089.css",
+    "src": "resources/assets/js/components/user/InviteUserForm.css"
+  },
+  "resources/assets/js/components/ui/LyricsPane.css": {
+    "file": "assets/LyricsPane.0526127e.css",
+    "src": "resources/assets/js/components/ui/LyricsPane.css"
+  },
+  "resources/assets/js/components/meta/AboutKoelModal.css": {
+    "file": "assets/AboutKoelModal.44cf1604.css",
+    "src": "resources/assets/js/components/meta/AboutKoelModal.css"
+  },
+  "resources/assets/js/components/ui/Equalizer.css": {
+    "file": "assets/Equalizer.a7d4cabc.css",
+    "src": "resources/assets/js/components/ui/Equalizer.css"
+  },
+  "resources/assets/js/app.css": {
+    "file": "assets/app.f853c32d.css",
+    "src": "resources/assets/js/app.css"
+  }
+}

@@ -1,0 +1,1 @@
+import{v as c,x as r,y as a,z as l,C as i,B as e,bP as p}from"./index.8f0bf197.js";const f=c({__name:"TooltipIcon",props:{title:{}},setup(o){const t=o,{title:n}=r(t);return(_,m)=>{const s=a("Icon");return l(),i(s,{icon:e(p),title:e(n),class:"help-trigger text-blue"},null,8,["icon","title"])}}});export{f as _};
